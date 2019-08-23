@@ -1,8 +1,10 @@
 body{
+    
     width: 100%;
     height: 100%;
     overflow: hidden;
     background: #000000;
+    background-image: url(524.jpeg)
 }
 .fade {
     position: relative;
@@ -49,6 +51,7 @@ body{
     100%{
         top: -6000px;
         transform: rotateX(25deg) translateZ(-2500px);
-    }
+    
+}
 }
 
